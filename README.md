@@ -1,4 +1,5 @@
-# Aria
+# Belarus
+
 
 This project is a full-stack application built with Next.js, React, and FastAPI. It is a work log management system, allowing users to create and manage work logs, as well as view statistics and charts.
 
